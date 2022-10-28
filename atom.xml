@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feynn.github.io</id>
     <title>Feyn</title>
-    <updated>2022-10-28T00:43:28.706Z</updated>
+    <updated>2022-10-28T00:58:44.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feynn.github.io"/>
     <link rel="self" href="https://feynn.github.io/atom.xml"/>
@@ -17,14 +17,11 @@
         </link>
         <updated>2022-10-28T00:42:22.000Z</updated>
         <content type="html"><![CDATA[<h2 id="day-le-3">Day <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>≤</mo><mo>−</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">\le -3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord">3</span></span></span></span></h2>
-<p><strong>2022.08.10</strong> 开坑。名已经报了，但教师审核还未通过。管他呢！</p>
-<p><strong>2022.09.16-17</strong> 由于初赛是线上进行，一直在准备设备。一开始打算直接用手机监考，到了前一天晚上突然发现安卓底层有对文件的 4GB 限制，结果就是录了五十分钟就会自己停止。那不就完了吗，虽然可以用软件分几段录之后拼起来，但还是感觉不保险。于是就去借了个MacBook Air，学习使用苹果系统一个小时，然后研究如何解决其卡死问题一个小时，一直准备到当天中午仍不确定它是否能稳定运行。于是初赛的时候心神不宁，最后好在没出事。考后发现有许多人都是这样把视屏分成几段。维生素B。</p>
-<p><strong>2022.09.18</strong> 初赛，没什么好说的。今年的题感觉比去年简单一些，但更奇怪一些。前面考了一些底层的问题，只能算是可以接受；后面一堆奇怪的题目就很高妙。什么宇宙射线轰击基数排序，什么两个人做八个人的作业的经典永流传，什么对负数取对数，什么输出用 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><mo>?</mo><mo>)</mo></mrow><annotation encoding="application/x-tex">O(?)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mclose">?</span><span class="mclose">)</span></span></span></span>，什么 <code>for(int j=0;j&lt;=m;j*=2)</code> ，出题人绝对是喝高了。当时看到那个写作业的题怎么算怎么是 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>105</mn></mrow><annotation encoding="application/x-tex">105</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">5</span></span></span></span>，甚至还换了四种方法，算到后面都绝望了。然后就是程序填空出得没有任何区分度，什么玩意啊。今年为什么那么多排序，除了排序就是排序，出题人怕不是只学了一分钟 OI 吧。好傻逼的一套题，无以复加了。</p>
-<p><strong>2022.09.19-23</strong> 返校后各种联测。高一一开始就停课，我们真勇。</p>
-<p><strong>2022.09.27</strong> 从十二点半开始等，刷到一点半才把分数刷出来。显然CCF的服务器被宇宙射线崩了。<br>
-<img src="https://images.cnblogs.com/cnblogs_com/blogs/697493/galleries/2105213/o_220927053954_tp.png" alt="" loading="lazy"><br>
-盛况：<img src="https://images.cnblogs.com/cnblogs_com/blogs/697493/galleries/2105213/o_220930004033_o_220927054052_c.png" alt="" loading="lazy"></p>
-<p><strong>2022.09.28</strong> 傍晚终于出线了，S 组 55，J 组 65。和预想中的稍微有点不同，但说真的确实不是很高。顺便吐槽四川大鸽子，这么晚才出线。<br>
+<p><strong>2022.08.10</strong> 开坑。名已经报了，但教师审核还未通过。管他呢！<br>
+<strong>2022.09.16-17</strong> 由于初赛是线上进行，一直在准备设备。一开始打算直接用手机监考，到了前一天晚上突然发现安卓底层有对文件的 4GB 限制，结果就是录了五十分钟就会自己停止。那不就完了吗，虽然可以用软件分几段录之后拼起来，但还是感觉不保险。于是就去借了个MacBook Air，学习使用苹果系统一个小时，然后研究如何解决其卡死问题一个小时，一直准备到当天中午仍不确定它是否能稳定运行。于是初赛的时候心神不宁，最后好在没出事。考后发现有许多人都是这样把视屏分成几段。维生素B。<br>
+<strong>2022.09.18</strong> 初赛，没什么好说的。今年的题感觉比去年简单一些，但更奇怪一些。前面考了一些底层的问题，只能算是可以接受；后面一堆奇怪的题目就很高妙。什么宇宙射线轰击基数排序，什么两个人做八个人的作业的经典永流传，什么对负数取对数，什么输出用 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>O</mi><mo>(</mo><mo>?</mo><mo>)</mo></mrow><annotation encoding="application/x-tex">O(?)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mclose">?</span><span class="mclose">)</span></span></span></span>，什么 <code>for(int j=0;j&lt;=m;j*=2)</code> ，出题人绝对是喝高了。当时看到那个写作业的题怎么算怎么是 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>105</mn></mrow><annotation encoding="application/x-tex">105</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">5</span></span></span></span>，甚至还换了四种方法，算到后面都绝望了。然后就是程序填空出得没有任何区分度，什么玩意啊。今年为什么那么多排序，除了排序就是排序，出题人怕不是只学了一分钟 OI 吧。好傻逼的一套题，无以复加了。<br>
+<strong>2022.09.27</strong> 从十二点半开始等，刷到一点半才把分数刷出来。显然CCF的服务器被宇宙射线崩了。<br>
+<strong>2022.09.28</strong> 傍晚终于出线了，S 组 55，J 组 65。和预想中的稍微有点不同，但说真的确实不是很高。顺便吐槽四川大鸽子，这么晚才出线。<br>
 <strong>2022.09.30</strong> 在疫情中艰难的生存中。昨天晚上一个室友发烧被带走了（他甚至六天没做核酸），今天有个绵阳来的同学被拉去隔离了（昨天绵阳貌似封城了）。前路艰且远，泥泞不堪。<br>
 <strong>2022.10.14</strong> 终于能缴费了。特派员大鸽子，睡了两周不上班，差评。<br>
 <strong>2022.10.24</strong> 终于出准考证号了。并知道在高新考。和zyc大佬和zsq大佬一个考场，那不妥妥被虐啊。</p>
