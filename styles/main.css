@@ -2136,8 +2136,8 @@ p > code {
       color: #adb5bd;
       border-bottom-color: #adb5bd;
     }.markdownIt-TOC a:hover {
-      color: #adb5bd;
-      border-bottom-color: #adb5bd;
+      color: #868e96;
+      border-bottom-color: #868e96;
     }.active-current > a {
       color: #212529 !important;
       border-bottom-color: #212529 !important;
